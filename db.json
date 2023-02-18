@@ -1,9 +1,186 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "history": [
+    {
+      "id": 1,
+      "name": "Salad rau mùa sốt cam",
+      "oldPrice": 70.0,
+      "price": 68.0,
+      "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/untitled1-1.jpg?v=1667882668000"
+    },
+    {
+      "id": 2,
+      "name": "Salad rau mùa sốt mác mác",
+      "oldPrice": null,
+      "price": 68.0,
+      "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/untitled1bb4fdbb3bd7845448a799-a1c5a559-3505-435f-9278-d7ba29e9c529.jpg?v=1667882632000"
+    },
+    {
+      "id": 3,
+      "name": "Phở cuốn",
+      "oldPrice": null,
+      "price": 82.0,
+      "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/untitled1f119f567b16045a78f61d.jpg?v=1667882617000"
+    },
+    {
+      "id": 4,
+      "name": "Gỏi tai heo hoa chuối",
+      "oldPrice": null,
+      "price": 125.0,
+      "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/untitled114148eed72724d16a9d2c.jpg?v=1667882605000"
+    },
+    {
+      "id": 5,
+      "name": "Gà cuốn lá dứa",
+      "oldPrice": null,
+      "price": 168.0,
+      "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/2-2.jpg?v=1667882572000"
+    },
+    {
+      "id": 6,
+      "name": "Ức gà đút lò phủ lá chanh",
+      "oldPrice": null,
+      "price": 185.0,
+      "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1-2.jpg?v=1667882535000"
+    },
+    {
+      "id": 7,
+      "name": "Ba rọi nướng riềng mẻ",
+      "oldPrice": 170.0,
+      "price": 155.0,
+      "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1240f05c5ee174bcdaf47d5ec33197.jpg?v=1667882506000"
+    },
+    {
+      "id": 8,
+      "name": "Canh mướp hương nhồi thịt",
+      "oldPrice": 130.0,
+      "price": 120.0,
+      "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/untitled19295a1b9ecd041238d6bd.jpg?v=1667882495000"
+    },
+    {
+      "id": 9,
+      "name": "Ba rọi chiên mắm ngò",
+      "oldPrice": null,
+      "price": 145.0,
+      "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/17ad3f36d9db047aa93f83dc10abc6.jpg?v=1667882482000"
+    },
+    {
+      "id": 10,
+      "name": "Cơm chả cua hoàng kim",
+      "oldPrice": null,
+      "price": 75.0,
+      "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1cdb6151948324e7bb3b83f1b9f4cb.jpg?v=1667882448000"
+    },
+    {
+      "id": 11,
+      "name": "Cơm đùi gà chiên giòn",
+      "oldPrice": 65.0,
+      "price": 58.0,
+      "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/15b3ba303f9e14fc3a7300b794fb22.jpg?v=1667882426000"
+    },
+    {
+      "id": 12,
+      "name": "Cơm sườn nướng",
+      "oldPrice": null,
+      "price": 65.0,
+      "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1c912144730d24f13a35a91aa71c3c.jpg?v=1667882402000"
+    },
+    {
+      "id": 13,
+      "name": "Bún bò",
+      "oldPrice": null,
+      "price": 65.0,
+      "scr": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/12544e4d15a994948a261d455eee51.jpg?v=1667882376000"
+    },
+    {
+      "id": 14,
+      "name": "Cháo bò bằm và trứng bắc thảo",
+      "oldPrice": null,
+      "price": 100,
+      "scr": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1271b22e186634f45b1a5695ce5efb.jpg?v=1667882364000"
+    },
+    {
+      "id": 15,
+      "name": "Hủ tiếu áp chảo bò",
+      "oldPrice": 110.0,
+      "price": 99.0,
+      "scr": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/165aab637a80546a7925ad3c1d059f.jpg?v=1667882344000"
+    },
+    {
+      "id": 16,
+      "name": "Sụn gà xóc muối Tây Ninh",
+      "oldPrice": null,
+      "price": 199.0,
+      "scr": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1361d484343ae4cd79a7567bf7c85a.jpg?v=1667882319000"
+    },
+    {
+      "id": 17,
+      "name": "Nem lụi nướng mía",
+      "oldPrice": null,
+      "price": 79.0,
+      "scr": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/11f732523eccd493dab32cd1c47283.jpg?v=1667882302000"
+    },
+    {
+      "id": 18,
+      "name": "Mì spaghetti sốt kem nấm",
+      "oldPrice": 119.0,
+      "price": 99.0,
+      "scr": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/16a823ee48d514262baa6de6adde8f.jpg?v=1667882287000"
+    },
+    {
+      "id": 19,
+      "name": "Mì spaghetti sốt bò bằm",
+      "oldPrice": null,
+      "price": null,
+      "scr": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1bb2a25291b5542968dba015b4be31.jpg?v=1667882207000"
+    },
+    {
+      "id": 20,
+      "name": "Cơm chiên thịt cua lá cẩm",
+      "oldPrice": 449.0,
+      "price": 329.0,
+      "scr": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/148cb1f9fc1dd41d49436d055639dc.jpg?v=1667882025000"
+    },
+    {
+      "id": 21,
+      "name": "Cơm chiên hải sản",
+      "oldPrice": 58.0,
+      "price": 45.0,
+      "scr": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/2b8cb0f5f433c442c950c1aaf3f2e6.jpg?v=1667882001000"
+    },
+    {
+      "id": 22,
+      "name": "Mì soba cá hồi",
+      "oldPrice": 89.0,
+      "price": 67.0,
+      "scr": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1e8013ec25dbf4589bb3ee7d1f540e.jpg?v=1667881735000"
+    },
+    {
+      "id": 23,
+      "name": "Bánh chuối hấp",
+      "oldPrice": 78.0,
+      "price": 49.0,
+      "scr": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1b9f1d3769f3640b1a2b386fb6b453.jpg?v=1667881682000"
+    },
+    {
+      "id": 24,
+      "name": "Dương chi cam lộ",
+      "oldPrice": null,
+      "price": 67.0,
+      "scr": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1c8da310231574e189b9012e3125a3.jpg?v=1667881665000"
+    },
+    {
+      "id": 25,
+      "name": "Trà lài nhãn",
+      "oldPrice": 90.0,
+      "price": 76.0,
+      "scr": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/19fe207c1918443c493a8ffc37de05.jpg?v=1667881644000"
+    },
+    {
+      "id": 26,
+      "name": "Trà sữa Oolong",
+      "oldPrice": 300.0,
+      "price": 215.0,
+      "scr": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1f8b8eb2049ed4362bd32f0899192c.jpg?v=1667881453000"
+    }
+  ]
 }
