@@ -214,5 +214,38 @@
       "desc": "Các món ăn được chế biến tinh tế với hương vị đặc biệt nhất",
       "thumbail__src": "https://bizweb.dktcdn.net/100/469/097/themes/882205/assets/cate_5.jpg?1677815721948"
     }
+  ],
+
+  "menu": [
+    {
+      "id": 1,
+      "type": "Khai vị",
+      "listIdProducts": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    {
+      "id": 2,
+      "type": "Món chính",
+      "listIdProducts": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    },
+    {
+      "id": 3,
+      "type": "Canh - tiềm - súp",
+      "listIdProducts": [8, 13]
+    },
+    {
+      "id": 4,
+      "type": "Cơm - mì - cháo",
+      "listIdProducts": [4, 7, 8, 9, 12, 13, 14, 15, 16, 17]
+    },
+    {
+      "id": 5,
+      "type": "Bánh tráng miệng",
+      "listIdProducts": [23]
+    },
+    {
+      "id": 6,
+      "type": "Đồ uống",
+      "listIdProducts": [24, 25, 26]
+    }
   ]
 }
