@@ -248,5 +248,31 @@
       "listIdProducts": [24, 25, 26]
     }
   ],
-  "news": [3, 5, 7, 9, 11, 15, 19, 20, 25]
+  "news": [3, 5, 7, 9, 11, 15, 19, 20, 25],
+  "restaurentInforBasic": [
+    {
+      "id": 1,
+      "type": "Cửa hàng",
+      "icon": "https://bizweb.dktcdn.net/100/469/097/themes/882205/assets/thong_ke1.png?1677815721948",
+      "current": 8
+    },
+    {
+      "id": 2,
+      "type": "Nhân viên",
+      "icon": "https://bizweb.dktcdn.net/100/469/097/themes/882205/assets/thong_ke2.png?1677815721948",
+      "current": 200
+    },
+    {
+      "id": 1,
+      "type": "Khách hàng",
+      "icon": "https://bizweb.dktcdn.net/100/469/097/themes/882205/assets/thong_ke3.png?1677815721948",
+      "current": 5000
+    },
+    {
+      "id": 1,
+      "type": "Món ăn",
+      "icon": "https://bizweb.dktcdn.net/100/469/097/themes/882205/assets/thong_ke4.png?1677815721948",
+      "current": 50
+    }
+  ]
 }
