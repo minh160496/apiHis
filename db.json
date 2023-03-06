@@ -274,5 +274,91 @@
       "icon": "https://bizweb.dktcdn.net/100/469/097/themes/882205/assets/thong_ke4.png?1677815721948",
       "current": 50
     }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "time": "Thứ Hai, 24/10/2022",
+      "author": "Minhle",
+      "title": "Mách bạn công thức làm canh cá nấu mẻ thơm ngon đậm vị",
+      "content": {
+        "desc": "Canh cá nấu mẻ là món ăn dân dã, quen thuộc trong mỗi mâm cơm gia đình Việt. Mùa hè nắng nóng mà có bát canh cá chua chua, ngọt ngọt thì còn gì bằng. Có rất nhiều cách để chế biến theo công thức này như: canh cá trắm nấu mẻ, canh cá basa nấu mẻ, canh cá lóc nấu mẻ, canh cá dọc mùng nấu mẻ,…",
+        "img_src": [
+          {
+            "id": 1,
+            "type": "ingredient",
+            "src": "https://img.tastykitchen.vn/resize/764x-/2021/06/11/nguyen-lieu-nau-canh-ca-nau-me-1-6c30.jpg"
+          },
+          {
+            "id": 2,
+            "type": "thumbnail",
+            "src": "https://img.tastykitchen.vn/resize/764x-/2021/06/11/canh-ca-nau-me-2-7edb.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "time": "Thứ Ba, 25/10/2022",
+      "author": "Minhle",
+      "title": "Tuyển tập 8 món xào đơn giản, tiết kiệm thời gian cho chị em",
+      "content": {
+        "desc": "Cùng Bếp nhà Dola khám phá công thức làm 8 món xào đơn giản, nhanh gọn trong bài viết dưới đây để làm phong phú, đa dạng thêm cho bữa cơm của gia đình mình nhé",
+        "img_src": [
+          {
+            "id": 1,
+            "type": "ingredient",
+            "src": "https://img.tastykitchen.vn/resize/764x-/2021/06/11/nguyen-lieu-nau-canh-ca-nau-me-1-6c30.jpg"
+          },
+          {
+            "id": 2,
+            "type": "thumbnail",
+            "src": "https://img.tastykitchen.vn/resize/764x-/2021/06/16/dua-xao-long-me-ga-3b27.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "time": "Thứ Tư, 26/10/2022",
+      "author": "Minhle",
+      "title": "Hé lộ chìa khóa vàng giúp thiết lập được công thức nấu ăn ngon",
+      "content": {
+        "desc": "Một công thức nấu ăn ngon không chỉ đòi hỏi chuẩn theo tỉ lệ nêm nếm, phối hợp nguyên liệu phù hợp mà còn phụ thuộc rất lớn vào việc chọn lựa nguyên liệu. Ngoài ra, nhiều chuyên gia dinh dưỡng nhận định, thực phẩm có dấu hiệu ẩm mốc, không tươi ngon hoặc để quá lâu sẽ ảnh hưởng lớn đến sức khỏe. Do đó, nên có những mẹo nhỏ để quá trình chọn lựa được diễn ra thuận lợi, nhanh chóng, hiệu quả",
+        "img_src": [
+          {
+            "id": 1,
+            "type": "ingredient",
+            "src": "https://img.tastykitchen.vn/resize/764x-/2021/07/02/lua-chon-rau-cu-tuoi-nguyen-gop-phan-lam-nen-bua-a-0baa.jpg"
+          },
+          {
+            "id": 2,
+            "type": "thumbnail",
+            "src": "https://img.tastykitchen.vn/resize/764x-/2021/07/02/mam-com-ngon-va-dinh-duong-919c.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "time": "Thứ Năm, 27/10/2022",
+      "author": "Minhle",
+      "title": "1001 món ngon mỗi ngày - Giải quyết vấn đề “Hôm nay ăn gì?”",
+      "content": {
+        "desc": "Bữa sáng là một trong những bữa ăn quan trọng trong ngày, giúp cung cấp năng lượng cho một ngày dài học tập và làm việc. Một số món ăn sáng thơm ngon, hấp dẫn nhưng khá đơn giản mà bạn có thể chuẩn bị tại nhà",
+        "img_src": [
+          {
+            "id": 1,
+            "type": "ingredient",
+            "src": "https://img.tastykitchen.vn/resize/764x-/2021/06/29/com-rang-mon-an-sang-thom-ngon-chac-bung-1-22a5.jpg"
+          },
+          {
+            "id": 2,
+            "type": "thumbnail",
+            "src": "https://img.tastykitchen.vn/resize/764x-/2021/06/29/ga-nuong-mat-ong-thom-ngon-dam-vi-5-66d6.jpg"
+          }
+        ]
+      }
+    }
   ]
 }
