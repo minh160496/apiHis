@@ -360,5 +360,28 @@
         ]
       }
     }
+  ],
+  "feedbacks": [
+    {
+      "id": 1,
+      "name": "Hồng Liêm",
+      "job": "Nhân viên văn phòng",
+      "content": "Món ăn ở đây hầu hết đều rất ngon, khẩu vị phù hợp với tôi, tôi sẽ luôn ủng hộ nhà hàng Dola Restaurant",
+      "thumbnail_src": "https://bizweb.dktcdn.net/100/469/097/themes/882205/assets/danhgia_2.jpg?1677815721948"
+    },
+    {
+      "id": 2,
+      "name": "Minh Nhật",
+      "job": "Đầu bếp",
+      "content": "Món ăn ở đây hầu hết đều rất ngon, khẩu vị phù hợp với tôi, tôi sẽ luôn ủng hộ nhà hàng Dola Restaurant",
+      "thumbnail_src": "https://bizweb.dktcdn.net/100/469/097/themes/882205/assets/danhgia_3.jpg?1677815721948"
+    },
+    {
+      "id": 3,
+      "name": "Mỹ Ngọc",
+      "job": "Nhân viên văn phòng",
+      "content": "Món ăn ở đây hầu hết đều rất ngon, khẩu vị phù hợp với tôi, tôi sẽ luôn ủng hộ nhà hàng Dola Restaurant",
+      "thumbnail_src": "https://bizweb.dktcdn.net/100/469/097/themes/882205/assets/danhgia_1.jpg?1677815721948"
+    }
   ]
 }
