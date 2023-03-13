@@ -350,32 +350,124 @@
     {
       "id": 1,
       "type": "Khai vị",
-      "listIdProducts": [1, 2, 3, 4, 17, 22]
+      "listIdProducts": [1, 2, 3, 4, 17, 22],
+      "child": [
+        {
+          "id": 1,
+          "type": "Salad",
+          "listIdProducts": [1, 2, 4]
+        },
+        {
+          "id": 2,
+          "type": "Gỏi",
+          "listIdProducts": [3, 17, 22]
+        }
+      ]
     },
     {
       "id": 2,
       "type": "Món chính",
-      "listIdProducts": [3, 5, 6, 7, 9, 11, 15, 16, 19, 20]
+      "listIdProducts": [3, 5, 6, 7, 9, 11, 14, 15, 16, 19, 20],
+      "child": [
+        {
+          "id": 1,
+          "type": "Món bò",
+          "listIdProducts": [13, 14, 19]
+        },
+        {
+          "id": 2,
+          "type": "Món gà",
+          "listIdProducts": [6, 11, 16]
+        },
+        {
+          "id": 3,
+          "type": "Món heo",
+          "listIdProducts": [4, 7, 8, 9, 10, 12, 17, 20]
+        },
+        {
+          "id": 4,
+          "type": "Món cá",
+          "listIdProducts": [10, 20, 21, 22]
+        }
+      ]
     },
     {
       "id": 3,
       "type": "Canh - tiềm - súp",
-      "listIdProducts": [8, 18, 22]
+      "listIdProducts": [8, 18, 22],
+      "child": [
+        {
+          "id": 1,
+          "type": "Canh",
+          "listIdProducts": [8]
+        },
+        {
+          "id": 2,
+          "type": "Tiềm",
+          "listIdProducts": [18]
+        },
+        {
+          "id": 3,
+          "type": "Súp",
+          "listIdProducts": [22]
+        }
+      ]
     },
     {
       "id": 4,
       "type": "Cơm - mì - cháo",
-      "listIdProducts": [10, 12, 13, 14, 18, 19, 20, 21, 22]
+      "listIdProducts": [10, 12, 13, 14, 18, 19, 20, 21, 22],
+      "child": [
+        {
+          "id": 1,
+          "type": "Cơm",
+          "listIdProducts": [10, 11, 12, 20, 21]
+        },
+        {
+          "id": 2,
+          "type": "Mì",
+          "listIdProducts": [18, 19, 22]
+        },
+        {
+          "id": 3,
+          "type": "Cháo",
+          "listIdProducts": [14, 15]
+        }
+      ]
     },
     {
       "id": 5,
       "type": "Bánh tráng miệng",
-      "listIdProducts": [23]
+      "listIdProducts": [23],
+      "child": [
+        {
+          "id": 1,
+          "type": "Bánh",
+          "listIdProducts": [23]
+        },
+        {
+          "id": 2,
+          "type": "Tráng miệng",
+          "listIdProducts": [1, 2, 3]
+        }
+      ]
     },
     {
       "id": 6,
       "type": "Đồ uống",
-      "listIdProducts": [24, 25, 26]
+      "listIdProducts": [24, 25, 26],
+      "child": [
+        {
+          "id": 1,
+          "type": "Cà phê",
+          "listIdProducts": [24]
+        },
+        {
+          "id": 2,
+          "type": "Trà sữa",
+          "listIdProducts": [25, 26]
+        }
+      ]
     }
   ],
   "news": [3, 5, 7, 9, 11, 15, 19, 20, 25],
