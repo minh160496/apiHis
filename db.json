@@ -8,7 +8,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/untitled1-1.jpg?v=1667882668000",
       "category": "Khai vị/Salad",
       "isOutStanding": false,
-      "every": true
+      "every": true,
+      "smell": "ngọt",
+      "size": "vừa"
     },
     {
       "id": 2,
@@ -18,7 +20,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/untitled1bb4fdbb3bd7845448a799-a1c5a559-3505-435f-9278-d7ba29e9c529.jpg?v=1667882632000",
       "category": "Khai vị/Salad",
       "isOutStanding": false,
-      "every": true
+      "every": true,
+      "smell": "ngọt",
+      "size": "nhỏ"
     },
     {
       "id": 3,
@@ -28,7 +32,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/untitled1f119f567b16045a78f61d.jpg?v=1667882617000",
       "category": "Món chính/Món bò || Khai vị/Gỏi",
       "isOutStanding": false,
-      "every": false
+      "every": false,
+      "smell": "mặn",
+      "size": "vừa"
     },
     {
       "id": 4,
@@ -38,7 +44,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/untitled114148eed72724d16a9d2c.jpg?v=1667882605000",
       "category": "Khai vị/Gỏi",
       "isOutStanding": true,
-      "every": true
+      "every": true,
+      "smell": "chua",
+      "size": "lớn"
     },
     {
       "id": 5,
@@ -48,7 +56,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/2-2.jpg?v=1667882572000",
       "category": "Món chính/Món gà",
       "isOutStanding": false,
-      "every": false
+      "every": false,
+      "smell": "mặn",
+      "size": "vừa"
     },
     {
       "id": 6,
@@ -58,7 +68,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1-2.jpg?v=1667882535000",
       "category": "Món chính/Món gà",
       "isOutStanding": true,
-      "every": false
+      "every": false,
+      "smell": "chua",
+      "size": "lớn"
     },
     {
       "id": 7,
@@ -68,7 +80,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1240f05c5ee174bcdaf47d5ec33197.jpg?v=1667882506000",
       "category": "Món chính/Món heo",
       "isOutStanding": true,
-      "every": true
+      "every": true,
+      "smell": "mặn",
+      "size": "vừa"
     },
     {
       "id": 8,
@@ -78,7 +92,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/untitled19295a1b9ecd041238d6bd.jpg?v=1667882495000",
       "category": "Canh - Tiềm - Súp/Canh",
       "isOutStanding": false,
-      "every": false
+      "every": false,
+      "smell": "ngọt",
+      "size": "lớn"
     },
     {
       "id": 9,
@@ -88,7 +104,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/17ad3f36d9db047aa93f83dc10abc6.jpg?v=1667882482000",
       "category": "Món chính/Món heo",
       "isOutStanding": false,
-      "every": false
+      "every": false,
+      "smell": "chua",
+      "size": "lớn"
     },
     {
       "id": 10,
@@ -98,7 +116,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1cdb6151948324e7bb3b83f1b9f4cb.jpg?v=1667882448000",
       "category": "Cơm - Mỳ - Cháo/Cơm",
       "isOutStanding": true,
-      "every": true
+      "every": true,
+      "smell": "mặn",
+      "size": "nhỏ"
     },
     {
       "id": 11,
@@ -108,7 +128,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/15b3ba303f9e14fc3a7300b794fb22.jpg?v=1667882426000",
       "category": "Món chính/Món gà",
       "isOutStanding": false,
-      "every": true
+      "every": true,
+      "smell": "mặn",
+      "size": "nhỏ"
     },
     {
       "id": 12,
@@ -118,7 +140,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1c912144730d24f13a35a91aa71c3c.jpg?v=1667882402000",
       "category": "Cơm - Mỳ - Cháo/Cơm",
       "isOutStanding": false,
-      "every": false
+      "every": false,
+      "smell": "ngọt",
+      "size": "lớn"
     },
     {
       "id": 13,
@@ -128,7 +152,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/12544e4d15a994948a261d455eee51.jpg?v=1667882376000",
       "category": "Cơm - Mỳ - Cháo/Mỳ",
       "isOutStanding": true,
-      "every": false
+      "every": false,
+      "smell": "chua",
+      "size": "vừa"
     },
     {
       "id": 14,
@@ -138,7 +164,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1271b22e186634f45b1a5695ce5efb.jpg?v=1667882364000",
       "category": "Cơm - Mỳ - Cháo/Cháo",
       "isOutStanding": false,
-      "every": true
+      "every": true,
+      "smell": "ngọt",
+      "size": "nhỏ"
     },
     {
       "id": 15,
@@ -148,7 +176,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/165aab637a80546a7925ad3c1d059f.jpg?v=1667882344000",
       "category": "Món chính/Món gà",
       "isOutStanding": true,
-      "every": false
+      "every": false,
+      "smell": "mặn",
+      "size": "vừa"
     },
     {
       "id": 16,
@@ -158,7 +188,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1361d484343ae4cd79a7567bf7c85a.jpg?v=1667882319000",
       "category": "Món chính/Món gà",
       "isOutStanding": false,
-      "every": true
+      "every": true,
+      "smell": "mặn",
+      "size": "nhỏ"
     },
     {
       "id": 17,
@@ -168,7 +200,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/11f732523eccd493dab32cd1c47283.jpg?v=1667882302000",
       "category": "Khai vị/Gỏi",
       "isOutStanding": false,
-      "every": false
+      "every": false,
+      "smell": "ngọt",
+      "size": "vừa"
     },
     {
       "id": 18,
@@ -178,7 +212,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/16a823ee48d514262baa6de6adde8f.jpg?v=1667882287000",
       "category": "Cơm - Mỳ - Cháo/Mỳ || Canh - Tiềm - Súp/Súp",
       "isOutStanding": false,
-      "every": true
+      "every": true,
+      "smell": "mặn",
+      "size": "nhỏ"
     },
     {
       "id": 19,
@@ -188,7 +224,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1bb2a25291b5542968dba015b4be31.jpg?v=1667882207000",
       "category": "Cơm - Mỳ - Cháo/Mỳ || Món chính/Món bò",
       "isOutStanding": true,
-      "every": false
+      "every": false,
+      "smell": "mặn",
+      "size": "lớn"
     },
     {
       "id": 20,
@@ -198,7 +236,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/148cb1f9fc1dd41d49436d055639dc.jpg?v=1667882025000",
       "category": "Cơm - Mỳ - Cháo/Cơm || Món chính/Món heo",
       "isOutStanding": false,
-      "every": false
+      "every": false,
+      "smell": "ngọt",
+      "size": "vừa"
     },
     {
       "id": 21,
@@ -208,7 +248,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/2b8cb0f5f433c442c950c1aaf3f2e6.jpg?v=1667882001000",
       "category": "Cơm - Mỳ - Cháo/Cơm",
       "isOutStanding": false,
-      "every": true
+      "every": true,
+      "smell": "mặn",
+      "size": "nhỏ"
     },
     {
       "id": 22,
@@ -218,7 +260,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1e8013ec25dbf4589bb3ee7d1f540e.jpg?v=1667881735000",
       "category": "Cơm - Mỳ - Cháo/Mỳ || Khai vị/Gỏi || Canh - Tiềm - Súp/Súp",
       "isOutStanding": true,
-      "every": false
+      "every": false,
+      "smell": "mặn",
+      "size": "nhỏ"
     },
     {
       "id": 23,
@@ -228,7 +272,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1b9f1d3769f3640b1a2b386fb6b453.jpg?v=1667881682000",
       "category": "Bánh và tráng miệng/Bánh",
       "isOutStanding": false,
-      "every": true
+      "every": true,
+      "smell": "ngọt",
+      "size": "vừa"
     },
     {
       "id": 24,
@@ -238,7 +284,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1c8da310231574e189b9012e3125a3.jpg?v=1667881665000",
       "category": "Đồ uống/Cà phê",
       "isOutStanding": false,
-      "every": true
+      "every": true,
+      "smell": "ngọt",
+      "size": "vừa"
     },
     {
       "id": 25,
@@ -248,7 +296,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/19fe207c1918443c493a8ffc37de05.jpg?v=1667881644000",
       "category": "Đồ uống/Trà sữa",
       "isOutStanding": false,
-      "every": false
+      "every": false,
+      "smell": "ngọt",
+      "size": "nhỏ"
     },
     {
       "id": 26,
@@ -258,7 +308,9 @@
       "src": "https://bizweb.dktcdn.net/thumb/large/100/469/097/products/1f8b8eb2049ed4362bd32f0899192c.jpg?v=1667881453000",
       "category": "Đồ uống/Trà sữa",
       "isOutStanding": false,
-      "every": true
+      "every": true,
+      "smell": "ngọt",
+      "size": "lớn"
     }
   ],
   "category": [
